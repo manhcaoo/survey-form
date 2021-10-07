@@ -1,0 +1,87 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 0.8rem;
+}
+.title {
+  font-size: 2.3rem;
+}
+
+.age-range {
+  width: 285px;
+  height: 30px;
+}
+
+.survey-questions {
+  font-size: 0.9rem;
+  font-weight: normal;
+}
+
+form {
+  font-size: 0.9rem;
+}
+
+#other-gender {
+  margin-left: 25px;
+  width: 100px;
+}
+.gender {
+  line-height: 22px;
+}
+
+.product {
+  line-height: 22px;
+}
+.how-often {
+  line-height: 22px;
+}
+
+.bottom-input {
+  width: 40%;
+  line-height: 70px;
+}
+
+.sbmit-btn {
+  margin-top: 20px;
+  display: block;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #271c1c;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.sub-th {
+  width: 100px;
+}
+.number-table {
+  display: block;
+  text-align: center;
+}
+
+.radio {
+  display: block;
+  text-align: center;
+}
+
+button {
+  width: 100px;
+  line-height: 40px;
+}
+
+body {
+  margin: auto;
+  max-width: 700px;
+}
